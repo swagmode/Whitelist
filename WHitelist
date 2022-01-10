@@ -1,0 +1,8 @@
+--\TEST
+
+
+local WhitelistedIDS = {
+[kingyid] = true,
+[kingyid2] = true,
+}
+return WhitelistedIDS
